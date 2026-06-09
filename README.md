@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/your-empty-side-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Your Empty Side Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-empty-side-bed/) |
+| **Get License** | [Obtain a Music License for Your Empty Side Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/your-empty-side-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the shadows begin to fall
+> I hear the echo when you call
+> I want to lay where the moonlight is shed
+> Right in the warmth of your empty side bed
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
