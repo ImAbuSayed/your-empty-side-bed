@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Your Empty Side Bed
+
+This log tracks the cryptographic history and versioning for the song **Your Empty Side Bed** (your-empty-side-bed).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:04:19.489159 | `v1` | `6e10f316ba0e79397d5148c8d2e606049a215c715470f8c0fa1d7763edaa1ac7` | `af5069bc6c22e7846769502106b923ee3940ffdc1039cef741754528432c6566` | `2026-06-09_your-empty-side-bed-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
